@@ -15,7 +15,7 @@ def binary_search(list, target):
 
 def verfy (index):
     if index is not None:
-        print("Taget found at:", index)
+        print("Target found at:", index)
     else:
         print("Target not found")
 
